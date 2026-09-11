@@ -16,7 +16,7 @@
 
 🎓 Undergraduate Software Engineering Student
 
-💼 Lead Trainee Software Engineer
+
 
 🌱 Currently Learning
 
